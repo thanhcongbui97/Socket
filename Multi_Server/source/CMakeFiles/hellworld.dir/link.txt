@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/hellworld.dir/app.c.o  -o hellworld 
